@@ -1,0 +1,5 @@
+1. X untuk Program ini dapat dijalankan dibanyak sistem operasi,  Apache, MySQL, PHP dan Perl.
+2. masuk ke directory instalasi xampp, cari xampp-control.exe lalu jalankan.
+3. Module mysqld.exe
+4. ketik localhost/phpmyadmin
+5. masuk ke cmd, lalu masuk ke folder mysql/bin, lalu ketikan mysql -h host -u username –p_password
